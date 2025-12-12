@@ -1,3 +1,9 @@
+'''
+Author: Nicholas Boulos
+This program contains the refactored implementation of SFOA from matlab and the implementations for the
+benchmark combinatorial optimizations problems to be imported to the test script.
+'''
+
 import numpy as np
 
 def sfoa(

@@ -1,3 +1,8 @@
+'''
+Author: Nicholas Boulos
+This program contains the python implementation for DE to be imported to benchmarking scripts.
+
+'''
 import numpy as np
 
 def de(

@@ -1,3 +1,7 @@
+'''
+Author: Nicholas Boulos
+This file contains the PSO python implemtation to be imported to test scripts
+'''
 import numpy as np
 
 def pso(
