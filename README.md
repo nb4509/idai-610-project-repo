@@ -14,7 +14,7 @@ The algorithms are evaluated with the following benchmark scripts:
 2. **ML hyperparameter optimization**
    - Support Vector Machine (SVM, RBF kernel) on the Iris dataset
 
-Performance is compared using convergence speedd, final fitness, success rates, and Pairwise Wilcoxon Test.
+Performance is compared using convergence speed, final fitness, success rates, and Pairwise Wilcoxon Test.
 
 ## Benchmarks
 ### Sphere Function
